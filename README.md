@@ -1,4 +1,5 @@
-# wicked-mounts-landing-page
-a landing page for a bike mount store
+## wicked-mounts-landing-page
 
-For learning purposes only; as of now
+A landing page for a motorcycle mount store.
+
+For learning purposes only
